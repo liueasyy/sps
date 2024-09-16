@@ -598,7 +598,7 @@
     {
       "name": "live",
       "type": 0,
-      "url": "https://mirror.ghproxy.com/raw.githubusercontent.com/ssili126/tv/main/itvlist.txt",
+      "url": "https://raw.githubusercontent.cnfaq.cn/liueasyy/sps/main/tv.txt",
       "playerType": 1,
       "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
       "logo": "https://live.fanmingming.com/tv/{name}.png"
