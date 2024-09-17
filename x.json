@@ -1,3 +1,4 @@
+{
   "spider":"https://files.zohopublic.com.cn/public/workdrive-public/download/gd5ic01b6d4922692401eac6018178d033d06",
   "lives": [
     {
@@ -20,7 +21,8 @@
       "url": "https://live.fanmingming.com/tv/m3u/ipv6.m3u",
       "playerType": 1
     }
-  ]
+  ],
+  
   "sites": [
  {
             "key": "豆瓣",
@@ -49,5 +51,5 @@
 "playerType": "1", 
 "api": "https://gitlab.com/fantaiying/ext/-/raw/main/drpy2.min.js",
  "ext": "https://gitlab.com/fantaiying/ext/-/raw/main/jp.js" },
-  ],  
+  ]
 }
