@@ -14,40 +14,7 @@
             "playerType": 1
         }
     ],
-    
     "sites": [
-        {
-            "key": "豆瓣",
-            "name": "豆瓣推荐",
-            "type": 3,
-            "api": "csp_DouDou",
-            "searchable": 0,
-            "quickSearch": 0,
-            "filterable": 0
-        },
-        {
-            "key": "Auete",
-            "name": "Auete",
-            "type": 3,
-            "api": "csp_Auete",
-            "timeout": 15,
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1,
-            "ext": "https://auete.pro/"
-        },
-        {
-            "key": "厂长",
-            "name": "厂长",
-            "type": 3,
-            "api": "csp_NewCz",
-            "timeout": 15,
-            "playerType": 2,
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1,
-            "ext": "https://www.czys.pro/"
-        },
         {
             "key": "荐片",
             "name": "荐片",
@@ -58,19 +25,6 @@
             "playerType": "1",
             "api": "https://gitlab.com/fantaiying/ext/-/raw/main/drpy2.min.js",
             "ext": "https://gitlab.com/fantaiying/ext/-/raw/main/jp.js"
-        },
-     {
-      "key": "蜡笔玩偶",
-      "name": "蜡笔玩偶",
-      "type": 3,
-      "api": "csp_kongbai",
-      "searchable": 1,
-      "changeable": 0,
-      "ext": {
-        "commonConfig": "./peizhi.json",
-        "siteUrl": "https://duopan.fun/",
-        "filter": "./wogg.json"
-      }
-      }
+        }
    ]
 }
