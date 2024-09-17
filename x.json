@@ -43,6 +43,6 @@
             "playerType": "1",
             "api": "https://gitlab.com/fantaiying/ext/-/raw/main/drpy2.min.js",
             "ext": "https://gitlab.com/fantaiying/ext/-/raw/main/jp.js"
-        },
+        }
    ]
 }
