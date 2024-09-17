@@ -1,6 +1,5 @@
 {
-    "spider": "https://raw.githubusercontent.cnfaq.cn/liueasyy/sps/main/x/custom_spider.jar;
-    md5;F1859A79A60B4FD5BB16A0F826568C31",
+    "spider": "https://raw.githubusercontent.cnfaq.cn/liueasyy/sps/main/x/custom_spider.jar;md5;F1859A79A60B4FD5BB16A0F826568C31",
       "lives": [
         {
             "name": "tvlive",
