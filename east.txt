@@ -1,4 +1,31 @@
+//spider
+
 1,https://raw.githubusercontent.cnfaq.cn/liueasyy/sps/main/x/custom_spider.jar;md5;F1859A79A60B4FD5BB16A0F826568C31
 
-
  2,https://raw.githubusercontent.cnfaq.cn/liueasyy/sps/main/x/pg.jar;md5;7c03297c89aa832f88092d4567664ad8",
+
+
+
+
+
+通过 Http 请求获取 GitHub 文件内容
+ 原始GitHub 文件地址：
+　　https://github.com/eric-projects/cv/blob/master/demo/example.json
+
+可Http访问资源内容的地址：
+
+　　https://raw.githubusercontent.com/eric-projects/cv/master/demo/example.json
+
+　raw.githubusercontent.com  资源服务器
+　eric-projects 用户名
+　cv 仓库名
+　master/demo/example.json  文件地址
+
+https://github.com/liueasyy/sps/blob/main/x.json
+
+https://raw.githubusercontent.cnfaq.cn/liueasyy/sps/main/x.json
+
+https://raw.githubusercontent.cnfaq.cn/liueasyy/sps/main/tv.txt
+
+
+
