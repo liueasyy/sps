@@ -58,6 +58,18 @@
             "playerType": "1",
             "api": "https://gitlab.com/fantaiying/ext/-/raw/main/drpy2.min.js",
             "ext": "https://gitlab.com/fantaiying/ext/-/raw/main/jp.js"
-        }
+        },
+     {
+      "key": "蜡笔玩偶",
+      "name": "蜡笔玩偶",
+      "type": 3,
+      "api": "csp_kongbai",
+      "searchable": 1,
+      "changeable": 0,
+      "ext": {
+        "commonConfig": "./peizhi.json",
+        "siteUrl": "https://duopan.fun/",
+        "filter": "./wogg.json"
+      }
    ]
 }
