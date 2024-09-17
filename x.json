@@ -23,8 +23,18 @@
             "quickSearch": 1,
             "changeable": 1,
             "playerType": "1",
-            "api": "https://gitlab.com/fantaiying/ext/-/raw/main/drpy2.min.js",
-            "ext": "https://gitlab.com/fantaiying/ext/-/raw/main/jp.js"
-        }
+            "api": "./drpyjp.js",
+            "ext": "./jp.js"
+        },
+     {
+      "key": "js_Czsapp",
+      "name": "厂长影视",
+      "type": 3,
+      "api": "./drpycz.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./cz.js"
+    }
    ]
 }
