@@ -27,16 +27,20 @@
     {"key": "csp_Ying","name": "💮┃樱花┃动漫","type": 3,"api": "csp_Ying","searchable": 1,"quickSearch": 1,"changeable": 1 },
     {"key": "有声小说js","name": "🎧有声┃小说","type": 3,"api": "./lib/drpy2.min.js","ext": "./lib/有声小说吧.js","style": {  "type": "rect",  "ratio": 1},"searchable": 0,"quickSearch": 0,"changeable": 0
     },
+
+     
     {"key":"dr_iqiyi","name":"🥝┃爱奇异(官)","type":3,"api":"./libs/js/drpy2.min.js","ext":"./libs/js/iqiyi.js"},
     {"key":"dr_youku","name":"🥔┃优酷(官)","type":3,"api":"./libs/js/drpy2.min.js","ext":"./libs/js/youku.js"},
     {"key":"dr_qq","name":"🐧┃腾讯(官)","type":3,"api":"./libs/js/drpy2.min.js","ext":"./libs/js/qq.js"},
     {"key":"dr_mgtv","name":"🥭┃芒果(官)","type":3,"api":"./libs/js/drpy2.min.js","ext":"./libs/js/mgtv.js"},
-    {"key": "dr_兔小贝","name": "📚儿童┃启蒙","type": 3,"api": "./libs/js/drpy2.min.js","ext": "./libs/js/兔小贝.js","style": {  "type": "rect",  "ratio": 1.597},"searchable": 0,"quickSearch": 0,"changeable": 0 },
+     
+
     {"key": "少儿教育","name": "📚少儿┃教育","type": 3,"api": "csp_Bili","style": {  "type": "rect",  "ratio": 1.597},"searchable": 0,"quickSearch": 0,"changeable": 0,"ext": "./libs/少儿教育.json" },
     {"key": "小学课堂","name": "📚小学┃课堂","type": 3,"api": "csp_Bili","style": {  "type": "rect",  "ratio": 1.597},"searchable": 0,"quickSearch": 0,"changeable": 0,"ext": "./libs/小学课堂.json" },
     {"key": "初中课堂","name": "📚初中┃课堂","type": 3,"api": "csp_Bili","style": {  "type": "rect",  "ratio": 1.597},"searchable": 0,"quickSearch": 0,"changeable": 0,"ext": "./libs/初中课堂.json" },
     {"key": "高中教育","name": "📚高中┃课堂","type": 3,"api": "csp_Bili","style": {  "type": "rect",  "ratio": 1.597},"searchable": 0,"quickSearch": 0,"changeable": 0,"ext": "./libs/高中课堂.json"},
   ],
+  
   "parses": [
     {"name": "Json聚合","type": 3,"url": "Demo" },
     {"name": "Web聚合","type": 3,"url": "Web"},
