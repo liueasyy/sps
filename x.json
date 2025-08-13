@@ -4,11 +4,8 @@
   "wallpaper": "https://深色壁纸.xxooo.cf/",
    "warningText": "资源来自网络，所有内容仅供学习使用，请勿用于违法及商业用途，请勿付费购买。",
  "sites":[
-   {"key": "初中课堂","name": "📚初中┃课堂","type": 3,"api": "csp_Bili","style": {  "type": "rect",  "ratio": 1.597},"searchable": 0,"quickSearch": 0,"changeable": 0,"ext": "./libs/初中课堂.json" },
-   {"key": "高中教育","name": "📚高中┃课堂","type": 3,"api": "csp_Bili","style": {  "type": "rect",  "ratio": 1.597},"searchable": 0,"quickSearch": 0,"changeable": 0,"ext": "./libs/高中课堂.json"},
-  {"key":"dr_qq","name":"🐧┃腾讯(官)","type":3,"api":"./libs/js/drpy2.min.js","ext":"./libs/js/qq.js"},
-  {"key": "js_Lib","name": "🍲┃Lib┃影视","type": 3,"api": "./libs/js/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./libs/js/libvio.js"},
   {"key": "js_czsapp","name": "🏭️┃厂长┃Js","type": 3,"api": "./libs/js/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./libs/js/czspp.js"},
+  {"key": "js_Lib","name": "🍲┃Lib┃影视","type": 3,"api": "./libs/js/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./libs/js/libvio.js"},
   {"key":"cc_茶杯狐","name": "🍵┃茶杯┃狐","type": 3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable": 1,"jar":"./libs/jar/c.jar","ext": "./libs/c/茶杯狐.json"},
 ],
    "lives": [
@@ -22,6 +19,7 @@
     }
   ]
 }
+
 
 
 
