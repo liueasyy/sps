@@ -4,17 +4,13 @@
   "wallpaper": "https://深色壁纸.xxooo.cf/",
    "warningText": "资源来自网络，所有内容仅供学习使用，请勿用于违法及商业用途，请勿付费购买。",
    "sites": [
-  
-    {"key": "js_Lib","name": "🍲┃Lib┃影视","type": 3,"api": "./libs/js/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./libs/js/libvio.js"},
-    {"key": "js_czsapp","name": "🏭️┃厂长┃Js","type": 3,"api": "./libs/js/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./libs/js/czspp.js"},
-    
+    {"key": "js_czsapp","name": "🏭️┃厂长┃Js","type": 3,"api": "./libs/js/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./libs/js/czspp.js"}, 
     {"key":"dr_iqiyi","name":"🥝┃爱奇异(官)","type":3,"api":"./libs/js/drpy2.min.js","ext":"./libs/js/iqiyi.js"},
     {"key":"dr_youku","name":"🥔┃优酷(官)","type":3,"api":"./libs/js/drpy2.min.js","ext":"./libs/js/youku.js"},
     {"key":"dr_qq","name":"🐧┃腾讯(官)","type":3,"api":"./libs/js/drpy2.min.js","ext":"./libs/js/qq.js"},
     {"key":"dr_mgtv","name":"🥭┃芒果(官)","type":3,"api":"./libs/js/drpy2.min.js","ext":"./libs/js/mgtv.js"},
     {"key":"dr_搜狗","name":"🚛┃搜狗(官)","type":3,"api":"./libs/js/drpy2.min.js","ext":"./libs/js/caigou.js"},
     {"key":"dr_360影视","name":"📺┃360(官) ","type":3,"api":"./libs/js/drpy2.min.js","ext":"./libs/js/360.js"},
-
     {"key": "火狐","name": "🦊火狐采集","type": 1,
       "api": "https://hhzyapi.com/api.php/provide/vod/","searchable": 1,"quickSearch": 0,"filterable": 1,"categories":
       [  "内地剧",  "动作片",  "科幻片",  "战争片",  "喜剧片",  "爱情片",  "恐怖片",  "犯罪片",  "剧情片",  "冒险片",  "记录片",  "韩剧",  "香港剧",  "台湾剧",  "欧美剧", 
@@ -75,6 +71,7 @@
     {"name": "cl","hosts": [  "magnet"],"regex": [  "最 新",  "直 播",  "更 新"]}
   ],
 }
+
 
 
 
